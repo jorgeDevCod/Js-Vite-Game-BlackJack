@@ -19,6 +19,10 @@ html, body {
   left: 100px;
   margin-left: -75px;
 }
+.ct-images{
+  max-width: 320px;
+  /* margin: auto; */
+}
 
 #computadora-cartas, #jugador-cartas {
   height: 240px;
